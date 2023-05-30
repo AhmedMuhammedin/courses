@@ -39,5 +39,5 @@ SOON Vidos
 # eCPTX – Advanced Penetration Testing
 [Part 1](https://rizy.ir/HTFo)
 [Part 2](https://rizy.ir/TLx3j)
-#password File :: hide01.ir
+# password File :: hide01.ir
 
