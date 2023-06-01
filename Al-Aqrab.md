@@ -1,4 +1,4 @@
-# EditREADME
+# Al-Aqrab
 # Course links # Al-Aqrab
 [facebook](https://www.facebook.com/AhmedMahmoudMuhammedin)
 # eCPPTv2 – Penetration Testing Professional
@@ -17,7 +17,8 @@
 [part 1](https://rizy.ir/zCpad8)
 # OSCP
 [Notes Oscp](https://drive.google.com/file/d/1k4fJYvccKE4vSeTc7gftGL96BKvvWHpb/view)
-SOON Vidos 
+[Part 1](https://drive.google.com/file/d/16qadcsG1oQi0yLjRXuJLVrEve5rcvFZ9/view?usp=sharing)
+[Part 2](https://drive.google.com/file/d/16sqN4eCGSWPaRlu2fbDHBSGrqySskKz9/view?usp=sharing)
 # eCPTX
 [Part 1](https://rizy.ir/HTFo)
 [Part 2](https://rizy.ir/TLx3j)
