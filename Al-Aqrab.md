@@ -12,7 +12,7 @@
 [part 2](https://rizy.ir/rZLE)
 [part 3](https://rizy.ir/AdRjRna)
 [part 4](https://rizy.ir/H56WE)
-# WEB-300 OSWEOSCP
+# WEB-300 OSWE
 [part 1](https://rizy.ir/rCNRb)
 [part 1](https://rizy.ir/zCpad8)
 # OSCP
